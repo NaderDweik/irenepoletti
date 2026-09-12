@@ -23,9 +23,9 @@
 ---
 
 ### 📂 Featured Projects
-* 🚗 **[Used Car Market Depreciation Analysis](./depreciation-market-analysis):** An applied econometric and clustering study analyzing 5-year depreciation patterns across 150+ vehicle models in MATLAB, incorporating macroeconomic and supply chain disruptions.
+* 🚗 **[Used Car Market Depreciation Analysis](https://github.com/irenepoletti01-coder/depreciation-market-analysis):** An applied econometric and clustering study analyzing 5-year depreciation patterns across 150+ vehicle models in MATLAB, incorporating macroeconomic and supply chain disruptions.
 
 ---
 
 ### 📬 Connect with Me
-* 💼 [LinkedIn]((https://it.linkedin.com/in/irene-poletti-307270244)
+* 💼 [LinkedIn](https://it.linkedin.com/in/irene-poletti-307270244)
