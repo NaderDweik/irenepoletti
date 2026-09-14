@@ -23,8 +23,9 @@
 ---
 
 ### 📂 Featured Projects
-* 🚗 **[Used Car Market Depreciation Analysis](https://github.com/irenepoletti01-coder/depreciation-market-analysis):** An applied econometric and clustering study analyzing 5-year depreciation patterns across 150+ vehicle models in MATLAB, incorporating macroeconomic and supply chain disruptions[cite: 1].
-* ✈️ **[The Geopolitics of Aviation Fuel & Energy Shocks](https://github.com/irenepoletti01-coder/aviation-fuel-geopolitics):** An energy economics research case study examining jet fuel refinery yield rigidities, short-term demand inelasticity, and SAF market transition economics[cite: 3].
+* 🚗 **[Used Car Market Depreciation Analysis](https://github.com/irenepoletti01-coder/depreciation-market-analysis):** An applied econometric and clustering study analyzing 5-year depreciation patterns across 150+ vehicle models in MATLAB, incorporating macroeconomic and supply chain disruptions.
+* ✈️ **[The Geopolitics of Aviation Fuel & Energy Shocks](https://github.com/irenepoletti01-coder/aviation-fuel-geopolitics):** An energy economics research case study examining jet fuel refinery yield rigidities, short-term demand inelasticity, and SAF market transition economics.
+* ☕ **[Global Comfort Café - Strategic Financial Feasibility Plan](https://github.com/irenepoletti01-coder/global-comfort-cafe-business-plan):** A complete corporate venture business plan and 5-year integrated financial model (Income Statement, Cash Flow, Balance Sheet, Break-even & Capital Structure) developed during Erasmus in Lille, France.
 
 ---
 
