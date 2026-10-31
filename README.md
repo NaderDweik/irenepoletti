@@ -1,33 +1,44 @@
 # Hi, I'm Irene Poletti 👋
 
-**Master's Student in International Business & Digital Management | Double Degree Candidate**  
-*Bridging Corporate Finance, Financial Auditing & Applied Data Analytics.*
+**Product-Minded Master's Student & Aspiring Product Manager**  
+Bridging process verification with hands-on experience shipping digital tools, automating workflows, and translating stakeholder needs into requirements.
 
 ---
 
 ### 💼 About Me
-* 🎓 **Academic Background:** 
-  * Double Degree MSc in International Business and Entrepreneurship (MIBE - Digital Management) at **University of Pavia** & **University of Szeged**.
-  * BSc in Economics and Management (**University of Pavia**). International exchange experience in Lille, France.
-* 🔍 **Professional Focus:** Former Audit LABO Intern at **PwC Italy** (Enterprise Clients). Aiming for Advisory, Transaction Services, Valuation, and Corporate Banking.
-* ⚙️ **Tech & Finance Mindset:** Passionate about combining financial rigor and accounting principles with modern, AI-assisted data workflows and analytical tools.
-* 📜 **Certifications:** McKinsey Forward Program (2026) | Oracle Cloud Infrastructure AI Foundations Associate.
+
+- 🎓 **Academic Background:**
+  - Double Degree M.Sc. in International Business & Entrepreneurship (MIBE) at **University of Pavia** & **University of Szeged** (High academic standing: 30/30 cum laude in Innovation & Technology Law; 28/30 in Applied Project Management).
+  - B.Sc. in Economics and Management (University of Pavia) with an Erasmus+ exchange at **Université Catholique de Lille**, France.
+- 🚀 **Professional Focus:** Aspiring Product Manager combining background experience in digital infrastructure management, process automation, and audit-grade risk verification.
+- 📜 **Certifications:** McKinsey Forward Program (Soft Skills & Leadership) | Oracle Cloud Infrastructure (OCI) AI Foundations Associate.
 
 ---
 
 ### 🛠️ Core Competencies & Toolkit
-* **Financial & Business Analysis:** Financial Statement Analysis, Audit Workflows, Business Valuation, Risk Assessment.
-* **Data & Analytics:** MATLAB, Applied Statistics (Regression, K-Means Clustering), Prompt Engineering / AI-Assisted Data Cleaning.
-* **Languages:** Italian (Native), English (Fluent / C1), French (Intermediate).
+
+- **Product & Project Management:** Requirements Gathering, Workflow Automation, Zoho One, Cross-Functional Collaboration, Stakeholder Communication.
+- **Data & Analytics:** Advanced MS Excel, MATLAB, Applied Statistics, Digital Audit & Compliance Systems.
+- **Languages:** Italian (Native), English (Fluent / C1), French (Intermediate).
 
 ---
 
-### 📂 Featured Projects
-* 🚗 **[Used Car Market Depreciation Analysis](https://github.com/irenepoletti01-coder/depreciation-market-analysis):** An applied econometric and clustering study analyzing 5-year depreciation patterns across 150+ vehicle models in MATLAB, incorporating macroeconomic and supply chain disruptions.
-* ✈️ **[The Geopolitics of Aviation Fuel & Energy Shocks](https://github.com/irenepoletti01-coder/aviation-fuel-geopolitics):** An energy economics research case study examining jet fuel refinery yield rigidities, short-term demand inelasticity, and SAF market transition economics.
-* ☕ **[Global Comfort Café - Strategic Financial Feasibility Plan](https://github.com/irenepoletti01-coder/global-comfort-cafe-business-plan):** A complete corporate venture business plan and 5-year integrated financial model (Income Statement, Cash Flow, Balance Sheet, Break-even & Capital Structure) developed during Erasmus in Lille, France.
+### 📂 Featured Projects & Case Studies
+
+- **CorpProof: Automated Sustainability Disclosure Platform**  
+  *B2B SaaS RegTech Product Case Study* — Designed core modules for EU CSRD/ESRS compliance, including Evidence Mapping, ESRS Requirement Checking, and AI Review Trail governance under Art. 50 of the EU AI Act.  
+  [🔗 Live Demo](https://pixel-perfect-clone-01794.lovable.app) | [📊 Strategic Deck](https://prezi.com/p/edit/0dTeRDAyCeSXepu8y1vGi41/)
+
+- **Global Comfort Café: Feasibility & 5-Year Financial Strategy**  
+  *Venture Strategy & Financial Modeling* — Acted as Team Lead (CEO) during Erasmus in Lille to define commercial positioning, unit economics, and a 5-year financial model.
+
+- **Automotive Market Analysis: MATLAB & Clustering**  
+  *Quantitative Research* — Applied econometric and K-Means clustering workflows across 150+ vehicle models to evaluate market resilience and depreciation metrics.
 
 ---
 
 ### 📬 Connect with Me
-* 💼 [LinkedIn](https://it.linkedin.com/in/irene-poletti-307270244)
+
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/irene-poletti/)
+- 🌐 [Personal Portfolio Website](https://irenepoletti.github.io/)
+- ✉️ [Email Me](mailto:irenepolettiads@gmail.com)
